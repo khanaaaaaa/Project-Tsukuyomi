@@ -5,7 +5,7 @@
 
 ## What It Is & Why I Made It
 
-A LED Chaser PCB in the form of a 'Sharingan' from the anime Naruto. I honestly did whatever and tried to do everything relatively simple and looked back at the Stasis starter project for reference. Though this was a lot different in the sheer ascpect of number of LEDs I used.
+A LED Chaser PCB in the form of a 'Sharingan' from the anime Naruto. I honestly did whatever and tried to do everything relatively simple and looked back at the Stasis starter project for reference. Though this was a lot different in the sheer aspect of number of LEDs I used.
 
 Everytime, I make a new project, I do two things: Make it some media related, and add something new everytime. I have always loved Naruto, and I was wondering how I could implement something from Naruto into a PCB, and also make it something really fun. I honestly have never worked with a lot of LEDs like this but there's a first for everything! Also the first thing I ever learned to make in hardware was a LED chaser from Stasis so roughly tried to do what I remember from there and it was very fun overall!
 
@@ -42,3 +42,8 @@ Everytime, I make a new project, I do two things: Make it some media related, an
 | Male Pin Header 2.54mm 1x05 Straight | J1 | C124378 | 1 | $0.0196 | $0.02 |
 
 **Total Cost: $0.91**
+
+# JLCPCB
+
+<img width="1880" height="621" alt="image" src="https://github.com/user-attachments/assets/f810186d-4a77-49d2-ade5-d756b6246aa6" />
+
