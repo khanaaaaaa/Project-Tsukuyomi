@@ -9,6 +9,15 @@ A LED Chaser PCB in the form of a 'Sharingan' from the anime Naruto. I honestly 
 
 Everytime, I make a new project, I do two things: Make it some media related, and add something new everytime. I have always loved Naruto, and I was wondering how I could implement something from Naruto into a PCB, and also make it something really fun. I honestly have never worked with a lot of LEDs like this but there's a first for everything! Also the first thing I ever learned to make in hardware was a LED chaser from Stasis so roughly tried to do what I remember from there and it was very fun overall!
 
+## How To Use It
+
+1. Connect a 5V power source (USB or other regulated 5V supply) to the power input on the PCB.
+2. Once poewr is applied, the circuit starts automatically and the LEDs begin their programmed lighting sequence.
+3. The CD4017 counter and timing circuit control the LED pattern, causing the LEDs to illuminate in sequencearound the board.
+4. Place the PCB on a flat surface, or display it as desired while powered.
+5. If the LEDs do not light up, verify that the power supply is providing 5V and the polarity is correct.
+6. If only some LEDs operate, inspect the corresponding LED, resistor, and transitor's solder joints for assembly issues.
+
 ## Schematic
 <img width="1099" height="772" alt="image" src="https://github.com/user-attachments/assets/5c824c05-8c77-4cc0-9ae5-ca9c59937761" />
 
