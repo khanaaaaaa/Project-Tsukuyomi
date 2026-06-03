@@ -26,3 +26,19 @@ Everytime, I make a new project, I do two things: Make it some media related, an
 
 ## 3D View
 <img width="912" height="757" alt="image" src="https://github.com/user-attachments/assets/b1fc6213-10db-4c3d-9ad2-581efe6c91c0" />
+
+## Bill of Materials (BOM)
+
+| Component | Designator | LCSC Part # | Qty | Unit Price | Line Total |
+|-----------|------------|-------------|-----|------------|------------|
+| LED 5mm Red THT | D2-D31, D36 | C84256 | 31 | $0.0072 | $0.22 |
+| 1N4007 Rectifier Diode DO-41 | D1 | C402311 | 1 | $0.0105 | $0.01 |
+| 2N2222A NPN Transistor TO-92 | Q1-Q3 | C358533 | 3 | $0.0143 | $0.04 |
+| CD4017BE CMOS Decade Counter DIP-16 | U1 | C34519 | 1 | $0.2793 | $0.28 |
+| NE555P Timer IC DIP-8 | U2 | C46749 | 1 | $0.0950 | $0.10 |
+| 74HC595D 8-bit Shift Register DIP-16 | U3 | C5947 | 1 | $0.1026 | $0.10 |
+| Resistor 470Ω 1/4W 5% THT Axial | R1-R7 | C134767 | 7 | $0.0100 | $0.07 |
+| Capacitor 100uF 25V Electrolytic Radial | C1 | C134099 | 1 | $0.0680 | $0.07 |
+| Male Pin Header 2.54mm 1x05 Straight | J1 | C124378 | 1 | $0.0196 | $0.02 |
+
+**Total Cost: $0.91**

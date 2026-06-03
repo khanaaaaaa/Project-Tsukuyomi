@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC Part #,Unit Price (USD),Qty,Line Total (USD),LCSC Link
+"LED 5mm Red THT","D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D36",LED_D5.0mm,C84256,$0.0072,31,$0.22,https://www.lcsc.com/product-detail/C84256.html
+"1N4007 Rectifier Diode DO-41",D1,D_DO-41_SOD81_P10.16mm_Horizontal,C402311,$0.0105,1,$0.01,https://www.lcsc.com/product-detail/C402311.html
+"2N2222A NPN Transistor 40V 600mA TO-92","Q1,Q2,Q3",TO-92-3_Inline,C358533,$0.0143,3,$0.04,https://www.lcsc.com/product-detail/C358533.html
+"CD4017BE CMOS Decade Counter DIP-16",U1,DIP-16_W7.62mm,C34519,$0.2793,1,$0.28,https://www.lcsc.com/product-detail/C34519.html
+"NE555P Timer IC DIP-8",U2,DIP-8_W7.62mm,C46749,$0.0950,1,$0.10,https://www.lcsc.com/product-detail/C46749.html
+"74HC595D 8-bit Shift Register DIP-16",U3,DIP-16_W7.62mm,C5947,$0.1026,1,$0.10,https://www.lcsc.com/product-detail/C5947.html
+"Resistor 470Ω 1/4W 5% THT Axial","R1,R2,R3,R4,R5,R6,R7",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,C134767,$0.0100,7,$0.07,https://www.lcsc.com/product-detail/C134767.html
+"Capacitor 100uF 25V Electrolytic Radial",C1,CP_Radial_D6.3mm_P2.50mm,C134099,$0.0680,1,$0.07,https://www.lcsc.com/product-detail/C134099.html
+"Male Pin Header 2.54mm 1x05 Straight",J1,PinHeader_1x05_P2.54mm_Vertical,C124378,$0.0196,1,$0.02,https://www.lcsc.com/product-detail/C124378.html
+,,,,,,,$0.91,TOTAL
